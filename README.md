@@ -1,14 +1,13 @@
-### Hi there 👋
+### Hi there! 👋
 
-My name is **Naing Oo Lwin**. People call me **Nolan**.
+My name is **Naing Oo Lwin**. You can call me **Nolan**.
 
-- I'm currently working on the machine learning model that grades the severity of Bell's palsy.
-- I'm currently learning machine learning, image processing, and software engineering.
-- I'm also looking for an internship related to SWE, ML, or Tech Consulting for next summer.
-- Ask me anything about CS, entrepreneurship, and consulting.
-- Reach out to me:
-  - Email: [nl020@bucknell.edu](nl020@bucknell.edu)
-  - LinkedIn: [Naing Oo (Nolan) Lwin](https://www.linkedin.com/in/naing-oo-lwin-nolan/)
+- 🎓 I'm pursuing a bachelor's degree, majoring in Computer Science and minoring in Business management, at Bucknell University.
+- 👨‍💻 I'm working on the machine learning model that grades the severity of Bell's palsy this summer.
+- 🖥 I'm currently learning machine learning, image processing, and software engineering.
+- 💼 I'm also looking for an internship related to SWE, ML, or Tech Consulting for next summer.
+- ❓ Ask me anything about CS, entrepreneurship, and consulting.
+- 📬 Reach out to me via Email: [nl020@bucknell.edu](nl020@bucknell.edu) or LinkedIn: [Naing Oo (Nolan) Lwin](https://www.linkedin.com/in/naing-oo-lwin-nolan/)
 
 <!--
 **i-am-nolan25/i-am-nolan25** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
