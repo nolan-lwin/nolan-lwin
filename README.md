@@ -17,6 +17,7 @@ My name is **Naing Oo Lwin**. You can call me **Nolan**.
 <a href="https://reactjs.org/" target="_blank" rel="noreferrer"><img src="./img/react.svg" width="36" height="36" alt="React" /></a> &nbsp;
 <a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="./img/python.svg" width="36" height="36" alt="Python" /></a> &nbsp;
 <a href="https://www.java.com/en/" target="_blank" rel="noreferrer"><img src="./img/java.svg" width="36" height="36" alt="Java" /></a>
+<a href="https://www.swift.org/" target="_blank" rel="noreferrer"><img src="./img/swift.svg" width="36" height="36" alt="Java" /></a>
 </p>
 
 
