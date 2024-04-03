@@ -1,13 +1,14 @@
 ### Hi there! 👋
 
-My name is **Naing Oo Lwin**. You can call me **Nolan**.
+My name is **Nolan Lwin**.
 
-- 🎓 I'm pursuing a bachelor's degree, majoring in Computer Science and minoring in Business management, at Bucknell University.
-- 👨‍💻 I'm working on the machine learning model that grades the severity of Bell's palsy this summer.
+- 🎓 I'm pursuing a bachelor's degree, majoring in Computer Science and minoring in Business Analytics, at Bucknell University.
+- 🚀 I'm interning at Stifel Financial Corp. as a Software Developer at their headquarter in St. Louis, MO for this 2024 summer.
+- 👨‍💻 I worked on the machine learning model that grades the severity of Bell's palsy last 2023 summer.
 - 🖥 I'm currently learning machine learning, image processing, and software engineering.
-- 💼 I'm also looking for an internship related to SWE, ML, or Tech Consulting for next summer.
+- 💼 I'm also looking for an internship related to SWE or AI/ML for next 2025 summer.
 - ❓ Ask me anything about CS, entrepreneurship, and consulting.
-- 📬 Reach out to me via Email: [nl020@bucknell.edu](nl020@bucknell.edu) or LinkedIn: [Naing Oo (Nolan) Lwin](https://www.linkedin.com/in/naing-oo-lwin-nolan/)
+- 📬 Reach out to me via Email: [nl020@bucknell.edu](nl020@bucknell.edu) or LinkedIn: [Nolan Lwin](https://www.linkedin.com/in/naing-oo-lwin-nolan/)
 
 ### Skills
 <p align="left">
