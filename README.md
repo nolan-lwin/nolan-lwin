@@ -4,7 +4,7 @@ My name is **Nolan Lwin**.
 
 - 🎓 I'm pursuing a bachelor's degree, majoring in Computer Science and minoring in Business Analytics, at Bucknell University.
 - 🚀 I'm interning at Stifel Financial Corp. as a Software Developer at their headquarter in St. Louis, MO for this 2024 summer.
-- 👨‍💻 I worked on the machine learning model that grades the severity of Bell's palsy last 2023 summer.
+- 👨‍💻 I worked on the machine learning model that grades the severity of Bell's palsy at Geisinger Healthcare last 2023 summer.
 - 🖥 I'm currently learning machine learning, image processing, and software engineering.
 - 💼 I'm also looking for an internship related to SWE or AI/ML for next 2025 summer.
 - ❓ Ask me anything about CS, entrepreneurship, and consulting.
