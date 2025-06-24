@@ -2,7 +2,7 @@
 
 My name is **Nolan Lwin**.
 
-- 🎓 I'm pursuing a bachelor's degree, majoring in Computer Science and minoring in Business Analytics, at Bucknell University.
+- 🎓 I'm pursuing a bachelor's degree, majoring in Computer Science and minoring in Economics, at Bucknell University.
 - 🚀 I'm interning at Oracle as a Software Engineer at their headquarter in Austin, TX for this 2025 summer.
 - 👨‍💻 I am founding an AI startup called Astrio. 
 - ❓ Ask me anything about CS and startups.
