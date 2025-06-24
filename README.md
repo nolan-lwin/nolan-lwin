@@ -3,12 +3,10 @@
 My name is **Nolan Lwin**.
 
 - 🎓 I'm pursuing a bachelor's degree, majoring in Computer Science and minoring in Business Analytics, at Bucknell University.
-- 🚀 I'm interning at Stifel Financial Corp. as a Software Developer Intern at their headquarter in St. Louis, MO for this 2024 summer.
-- 👨‍💻 I worked on the machine learning model that grades the severity of Bell's palsy at Geisinger Healthcare last 2023 summer.
-- 🖥 I'm currently learning machine learning, image processing, and software engineering.
-- 💼 I'm also looking for an internship related to SWE or AI/ML for next 2025 summer.
-- ❓ Ask me anything about CS, entrepreneurship, and consulting.
-- 📬 Reach out to me via Email: [nl020@bucknell.edu](nl020@bucknell.edu) or LinkedIn: [Nolan Lwin](https://www.linkedin.com/in/naing-oo-lwin-nolan/)
+- 🚀 I'm interning at Oracle as a Software Engineer at their headquarter in Austin, TX for this 2025 summer.
+- 👨‍💻 I am founding an AI startup called Astrio. 
+- ❓ Ask me anything about CS and startups.
+- 📬 Reach out to me via Email: [naingoolwin.astrio@gmail.com](naingoolwin.astrio@gmail.com) or LinkedIn: [Nolan Lwin](https://www.linkedin.com/in/nolan-lwin/)
 
 ### Skills
 <p align="left">
