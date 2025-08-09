@@ -12,6 +12,6 @@ My name is **Nolan Lwin**.
 
 <p align="left"> 
 <a href="mailto: nl020@bucknell.edu" target="_blank" rel="noreferrer"><img src="./img/gmail.svg" width="40" height="40" /></a> &nbsp;
-<a href="https://www.linkedin.com/in/naing-oo-lwin-nolan/" target="_blank" rel="noreferrer"><img src="./img/linkedin.svg" width="40" height="40" padding-top= "100px" /></a>
+<a href="https://www.linkedin.com/in/naing-oo-lwin-nolan/" target="_blank" rel="noreferrer"><img src="./img/linkedin.svg" width="40" height="40" padding-top= "100px" /></a> &nbsp;
 <a href="https://x.com/NolanLwin/" target="_blank" rel="noreferrer"><img src="./img/x.svg" width="40" height="40" padding-top= "100px" /></a>
 </p>
