@@ -2,8 +2,8 @@
 
 My name is **Nolan Lwin**.
 
-- 🚀 I'm a founder and CEO of Astrio.
-- 👨‍💻 I worked at Oracle as a Software Engineer.
+- 🚀 I'm a founder of Astrio.
+- 👨‍💻 I work at Oracle as a Software Engineer.
 - 🎓 I had a bachelor's degree in Computer Science at Bucknell University.
 - ❓ Ask me anything about Astrio.
 - 📬 Reach out to me via Email: [naingoolwin.astrio@gmail.com](naingoolwin.astrio@gmail.com) or LinkedIn: [Nolan Lwin](https://www.linkedin.com/in/nolan-lwin/)
